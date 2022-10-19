@@ -5,18 +5,13 @@
  */
 void print_alphabet_x10(void)
 {
-	int i = 0
+	int ten;
 	char la;
 
-	while (i < 10)
+	for (ten = 0; ten <= 9; ten++)
 	{
-		c = 'a';
-		while (c <= 'z')
-		{
-			_putchar(c);
-			c++;
-		}
+		for (la = 'a'; la <= '9'; la++)
+			_putchar(la);
 		_putchar('\n');
-		i++;
 	}
 }
