@@ -1,3 +1,20 @@
+
+4ouR04
+/
+alx-low_level_programming
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+alx-low_level_programming/0x06-pointers_arrays_strings/6-cap_string.c
+@4ouR04
+4ouR04 Expect the best. Prepare for the worst. Capitalize on what comes
+ 1 contributor
+38 lines (33 sloc)  776 Bytes
 #include "main.h"
 
 /**
